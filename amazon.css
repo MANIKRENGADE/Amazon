@@ -112,7 +112,7 @@ span{
     padding-left:20px;
 }
 .hero-section{
-    background-image:url("hero.jpg");
+    background-image:url("./img/hero.jpg");
     height:500px;
     background-size:cover;
     display:flex;
@@ -146,7 +146,7 @@ span{
     background-color: #e6e6e6;
 }
 .b1img{
-    background-image:url("gamingpc.jpg");
+    background-image:url("./img/gamingpc.jpg");
     background-size:cover;
     width:250px;
     height:250px;
@@ -191,19 +191,19 @@ span{
 
 /* Replace with your images */
 .b2img {
-    background-image: url("b2img.jpg");
+    background-image: url("./img/b2img.jpg");
 }
 
 .b21img {
-    background-image: url("b21img.jpg");
+    background-image: url("./img/b21img.jpg");
 }
 
 .b22img {
-    background-image: url("b22img.jpg");
+    background-image: url("./img/b22img.jpg");
 }
 
 .b23img {
-    background-image: url("b23img.jpg");
+    background-image: url("./img/b23img.jpg");
 }
 
 .card p {
@@ -214,7 +214,7 @@ span{
     margin-top:20px;
 }
 .cooker{
-    background-image:url("cooker.jpg");
+    background-image:url("./img/cooker.jpg");
     width:280px;
     height:150px;
     background-size:cover;
@@ -229,7 +229,7 @@ span{
 
 }
 .c2{
-    background-image:url("c2.jpg");
+    background-image:url("./img/c2.jpg");
     width:90px;
     height:90px;
      background-size:cover;
@@ -238,7 +238,7 @@ span{
 
 }
 .c3{
-    background-image:url("c3.jpg");
+    background-image:url("./img/c3.jpg");
      width:90px;
     height:90px;
   background-size:cover;
@@ -247,7 +247,7 @@ span{
 
 }
 .c4{
-    background-image:url("c4.jpg");
+    background-image:url("./img/c4.jpg");
       width:90px;
     height:90px;
   background-size:cover;
@@ -300,28 +300,28 @@ span{
    
 }
 .m1{
-    background-image:url("m1.jpg");
+    background-image:url("./img/m1.jpg");
     height: 100px;
     background-size:cover;
     background-position:center;
      margin:15px 15px 15px 15px;
 }
 .m2{
-    background-image:url("m2.jpg");
+    background-image:url("./img/m2.jpg");
    height: 100px;
     background-size:cover;
     background-position:center;
      margin:15px 15px 15px 15px;
 }
 .m3{
-    background-image:url("m3.jpg");
+    background-image:url("./img/m3.jpg");
      height: 100px;
       background-size:cover;
     background-position:center;
      margin:15px 15px 15px 15px;
 }
 .m4{
-    background-image:url("m4.jpg");
+    background-image:url("./img/m4.jpg");
     height: 100px;
      background-size:cover;
     background-position:center;
@@ -345,26 +345,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .shop1{
-    background-image:url("shop1.jpg");
+    background-image:url("./img/shop1.jpg");
     width:100%;
     
 }
 
 .shop2{
-    background-image:url("shop2.jpg");
+    background-image:url("./img/shop2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .shop3{
-    background-image:url("shop3.jpg");
+    background-image:url("./img/shop3.jpg");
     width:100%;
     
 }
 
 .shop4{
-    background-image:url("shop4.jpg");
+    background-image:url("./img/shop4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -379,26 +379,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .techie{
-    background-image:url("techie.jpg");
+    background-image:url("./img/techie.jpg");
     width:100%;
     
 }
 
 .techie1{
-    background-image:url("techie1.jpg");
+    background-image:url("./img/techie1.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .techie2{
-    background-image:url("techie2.jpg");
+    background-image:url("./img/techie2.jpg");
     width:100%;
     
 }
 
 .techie3{
-    background-image:url("techie3.jpg");
+    background-image:url("./img/techie3.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -413,26 +413,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .fashion1{
-    background-image:url("fashion1.jpg");
+    background-image:url("./img/fashion1.jpg");
     width:100%;
     
 }
 
 .fashion2{
-    background-image:url("fashion2.jpg");
+    background-image:url("./img/fashion2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .fashion3{
-    background-image:url("fashion3.jpg");
+    background-image:url("./img/fashion3.jpg");
     width:100%;
     
 }
 
 .fashion4{
-    background-image:url("fashion4.jpg");
+    background-image:url("./img/fashion4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -447,26 +447,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .f1{
-    background-image:url("f1.jpg");
+    background-image:url("./img/f1.jpg");
     width:100%;
     
 }
 
 .f2{
-    background-image:url("f2.jpg");
+    background-image:url("./img/f2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .f3{
-    background-image:url("f3.jpg");
+    background-image:url("./img/f3.jpg");
     width:100%;
     
 }
 
 .f4{
-    background-image:url("f4.jpg");
+    background-image:url("./img/f4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -481,26 +481,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .a1{
-    background-image:url("a1.jpg");
+    background-image:url("./img/a1.jpg");
     width:100%;
     
 }
 
 .a2{
-    background-image:url("a2.jpg");
+    background-image:url("./img/a2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .a3{
-    background-image:url("a3.jpg");
+    background-image:url("./img/a3.jpg");
     width:100%;
     
 }
 
 .a4{
-    background-image:url("a4.jpg");
+    background-image:url("./img/a4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -515,26 +515,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .b1{
-    background-image:url("b1.jpg");
+    background-image:url("./img/b1.jpg");
     width:100%;
     
 }
 
 .b2{
-    background-image:url("b2.jpg");
+    background-image:url("./img/b2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .b3{
-    background-image:url("b3.jpg");
+    background-image:url("./img/b3.jpg");
     width:100%;
     
 }
 
 .b4{
-    background-image:url("b4.jpg");
+    background-image:url("./img/b4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -549,26 +549,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .c1{
-    background-image:url("c1.jpg");
+    background-image:url("./img/c1.jpg");
     width:100%;
     
 }
 
 .d2{
-    background-image:url("d2.jpg");
+    background-image:url("./img/d2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .d3{
-    background-image:url("d3.jpg");
+    background-image:url("./img/d3.jpg");
     width:100%;
     
 }
 
 .d4{
-    background-image:url("d4.jpg");
+    background-image:url("./img/d4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -583,26 +583,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .e1{
-    background-image:url("e1.jpg");
+    background-image:url("./img/e1.jpg");
     width:100%;
     
 }
 
 .e2{
-    background-image:url("e2.jpg");
+    background-image:url("./img/e2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .e3{
-    background-image:url("e3.jpg");
+    background-image:url("./img/e3.jpg");
     width:100%;
     
 }
 
 .e4{
-    background-image:url("e4.jpg");
+    background-image:url("./img/e4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -617,26 +617,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .g1{
-    background-image:url("g1.jpg");
+    background-image:url("./img/g1.jpg");
     width:100%;
     
 }
 
 .g2{
-    background-image:url("g2.jpg");
+    background-image:url("./img/g2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .g3{
-    background-image:url("g3.jpg");
+    background-image:url("./img/g3.jpg");
     width:100%;
     
 }
 
 .g4{
-    background-image:url("g4.jpg");
+    background-image:url("./img/g4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -651,26 +651,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .h1{
-    background-image:url("h1.jpg");
+    background-image:url("./img/h1.jpg");
     width:100%;
     
 }
 
 .h2{
-    background-image:url("h2.jpg");
+    background-image:url("./img/h2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .h3{
-    background-image:url("h3.jpg");
+    background-image:url("./img/h3.jpg");
     width:100%;
     
 }
 
 .h4{
-    background-image:url("h4.jpg");
+    background-image:url("./img/h4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -685,26 +685,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .i1{
-    background-image:url("i1.jpg");
+    background-image:url("./img/i1.jpg");
     width:100%;
     
 }
 
 .i2{
-    background-image:url("i2.jpg");
+    background-image:url("./img/i2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .i3{
-    background-image:url("i3.jpg");
+    background-image:url("./img/i3.jpg");
     width:100%;
     
 }
 
 .i4{
-    background-image:url("i4.jpg");
+    background-image:url("./img/i4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -719,26 +719,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .j1{
-    background-image:url("j1.jpg");
+    background-image:url("./img/j1.jpg");
     width:100%;
     
 }
 
 .j2{
-    background-image:url("j2.jpg");
+    background-image:url("./img/j2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .j3{
-    background-image:url("j3.jpg");
+    background-image:url("./img/j3.jpg");
     width:100%;
     
 }
 
 .j4{
-    background-image:url("j4.jpg");
+    background-image:url("./img/j4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -753,25 +753,25 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .k1{
-    background-image:url("k1.jpg");
+    background-image:url("./img/k1.jpg");
     width:90%;
     
 }
 
 .k2{
-    background-image:url("k2.jpg");
+    background-image:url("./img/k2.jpg");
     width:90%;
   
    
 }
 .k3{
-    background-image:url("k3.jpg");
+    background-image:url("./img/k3.jpg");
     width:90%;
     
 }
 
 .k4{
-    background-image:url("k4.jpg");
+    background-image:url("./img/k4.jpg");
     width:90%;
    
    margin-right:20px;
@@ -786,26 +786,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .l1{
-    background-image:url("l1.jpg");
+    background-image:url("./img/l1.jpg");
     width:100%;
     
 }
 
 .l2{
-    background-image:url("l2.jpg");
+    background-image:url("./img/l2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .l3{
-    background-image:url("l3.jpg");
+    background-image:url("./img/l3.jpg");
     width:100%;
     
 }
 
 .l4{
-    background-image:url("l4.jpg");
+    background-image:url("./img/l4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -820,26 +820,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .n1{
-    background-image:url("n1.jpg");
+    background-image:url("./img/n1.jpg");
     width:100%;
     
 }
 
 .n2{
-    background-image:url("n2.jpg");
+    background-image:url("./img/n2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .n3{
-    background-image:url("n3.jpg");
+    background-image:url("./img/n3.jpg");
     width:100%;
     
 }
 
 .n4{
-    background-image:url("n4.jpg");
+    background-image:url("./img/n4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -854,26 +854,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .o1{
-    background-image:url("o1.jpg");
+    background-image:url("./img/o1.jpg");
     width:100%;
     
 }
 
 .o2{
-    background-image:url("o2.jpg");
+    background-image:url("./img/o2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .o3{
-    background-image:url("o3.jpg");
+    background-image:url("./img/o3.jpg");
     width:100%;
     
 }
 
 .o4{
-    background-image:url("o4.jpg");
+    background-image:url("./img/o4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -888,26 +888,26 @@ span{
     grid-template-columns:1fr 1fr;
 }
 .c1{
-    background-image:url("c1.jpg");
+    background-image:url("./img/c1.jpg");
     width:100%;
     
 }
 
 .d2{
-    background-image:url("d2.jpg");
+    background-image:url("./img/d2.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
    
 }
 .d3{
-    background-image:url("d3.jpg");
+    background-image:url("./img/d3.jpg");
     width:100%;
     
 }
 
 .d4{
-    background-image:url("d4.jpg");
+    background-image:url("./img/d4.jpg");
     width:90%;
    margin-left:10px;
    margin-right:20px;
@@ -933,7 +933,7 @@ span{
     
    }
    .long{
-    background-image:url("longimg.jpg");
+    background-image:url("./img/longimg.jpg");
     width:1316px;
     height:200px;
     background-size:cover;
@@ -955,7 +955,7 @@ span{
      background-color:#e6e6e6;
   }
   .long2{
-    background-image:url("longimg2.jpg");
+    background-image:url("./img/longimg2.jpg");
     width:100%;
     height:100%;
 
@@ -1024,31 +1024,31 @@ span{
    .long4{
      display:flex;
         background-size:cover;
-    background-image:url("long4.jpg");
+    background-image:url("./img/long4.jpg");
     height:270px;
    }
     .long5{
          display:flex;
         background-size:cover;
-    background-image:url("long5.jpg");
+    background-image:url("./img/long5.jpg");
     height:270px;
    }
     .long6{
          display:flex;
         background-size:cover;
-    background-image:url("long6.jpg");
+    background-image:url("./img/long6.jpg");
     height:270px;
    }
      .long7{
          display:flex;
         background-size:cover;
-    background-image:url("long7.jpg");
+    background-image:url("./img/long7.jpg");
     height:270px;
    }
     .long8{
         display:flex;
         background-size:cover;
-    background-image:url("long8.jpg");
+    background-image:url("./img/long8.jpg");
     height:270px;
    }
    .footer{
